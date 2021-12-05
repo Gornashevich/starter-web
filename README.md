@@ -8,8 +8,8 @@ introduction text
 
 ## Purpose
 
-
+Purpose text
 
 ## Deployment
-
+Deployment text
 ## How To Contribute
