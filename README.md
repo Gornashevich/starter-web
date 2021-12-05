@@ -1,8 +1,14 @@
 # Starter Web Project
 
+example
+
 ##Introduction
 
+introduction text
+
 ## Purpose
+
+
 
 ## Deployment
 
